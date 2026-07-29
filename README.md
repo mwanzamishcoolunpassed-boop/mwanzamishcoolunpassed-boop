@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="myrus-logo.png" width="220" alt="Myrus Logo">
+</p>
+
 <h1 align="center">Hi, I'm MWANZA MISHECK 👋</h1>
 
 <h3 align="center">
